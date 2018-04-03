@@ -1,0 +1,7 @@
+.App, div {
+    padding: auto;
+    margi:0px auto;
+    display: block;
+    text-align: center;
+    border: 1px solid #eee;
+}
